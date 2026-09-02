@@ -1,5 +1,5 @@
 # Circuit
-可以通过代理和edge浏览器访问https://wolf-reef-wind-urban.grok.me/ 访问使用
+可以通过访问https://wolf-reef-wind-urban.grok.me/ 访问使用该编程智能体
 
 看得见思考的编程智能体。
 
