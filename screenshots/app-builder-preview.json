@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Circuit",
+      "hasCanvas": false,
+      "bodyTextLen": 502,
+      "bodyTextHash": "a23d085e5b9b8d2a650a0fd4942bb316f67837fd21390dde76b7491600ebb9e3",
+      "bodyTextPrefix": "Circuit 编程智能体 待命 / 00/8 / 0 tok 重置 思考，然后动手。 Circuit 不是一次答完的聊天框。它",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Circuit",
+      "hasCanvas": false,
+      "bodyTextLen": 452,
+      "bodyTextHash": "10b3b1a397fe8a66e5ed14bb0e473e2be61f7643b95da07bfcd1a5c09fa52c19",
+      "bodyTextPrefix": "Circuit 重置 对话 工作区 思考，然后动手。 Circuit 不是一次答完的聊天框。它会规划步骤、调用工具、根据返回结果",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
