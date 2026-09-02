@@ -1,4 +1,5 @@
 # Circuit
+可以通过代理和edge浏览器访问https://wolf-reef-wind-urban.grok.me/ 访问使用
 
 看得见思考的编程智能体。
 
@@ -88,7 +89,6 @@ Circuit 是 Agent：你只给目标，它走 **ReAct** 循环——思考（Thin
 3. 右侧工作区查看 Agent 写出的文件
 4. 需要停下就点停止；需要重来就点重置
 
-快捷键：`Ctrl` / `⌘` + `Enter` 发送。
 
 ---
 
